@@ -268,4 +268,12 @@ This project is available under the MIT License.
 
 ---
 
-**Built with ❤️ using Dart**
+**Built with ❤️ by [Ahmed Waheed](https://github.com/ahmed-waheed1) using Dart**
+
+## Author 👨‍💻
+
+**Ahmed Waheed** - [@ahmed-waheed1](https://github.com/ahmed-waheed1)
+
+- 📧 Email: [Contact Me](mailto:your.ahmedwaheed4047@gmail.com)
+- 💼 LinkedIn: [Ahmed Waheed](https://www.linkedin.com/in/ahmed-waheed11/)
+- 🐱 GitHub: [@ahmed-waheed1](https://github.com/ahmed-waheed1)
